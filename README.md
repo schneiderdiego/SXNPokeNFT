@@ -1,6 +1,8 @@
 Hello!
 
-Neste repositório você encontrará  as etapas de criação de um NFT de Pokemon, desafio da Plataforma DIO, com instruções do professor Cassiano, e utilização das ferramentas de IDE Remix, Ganache, IPFS Desktop e Metamask:
+No arquivo SXNPokeNFT.sol você encontrará o código utilizado para criação do contrato de NFT:
+
+Neste repositório você encontrará  as etapas de criação de um NFT de Pokemon, desafio da Plataforma DIO, com instruções do professor Cassiano, e utilização das ferramentas de IDE Remix, Ganache, IPFS Desktop e Metamask. 
 
 ![image](https://github.com/user-attachments/assets/3597ee98-3aa2-4535-bf36-2fddf172350e)
 Imagem 1: Print da IDE Remix com a sequência do código de criação do NFT.
